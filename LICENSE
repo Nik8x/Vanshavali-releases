@@ -1,0 +1,25 @@
+Copyright (c) 2026 Nik8x. All Rights Reserved.
+
+This repository distributes pre-built, signed Android application packages ("the Software")
+for private use by individuals explicitly invited to a specific Vanshavali family tree.
+
+No license, express or implied, is granted to:
+  - redistribute, mirror, or re-host the Software outside of installing and running it on
+    your own device as an invited member of a Vanshavali tree;
+  - reverse-engineer, decompile, or disassemble the Software for the purpose of building a
+    derivative or competing application, or extracting its design, logic, or security
+    mechanisms;
+  - modify the Software and redistribute the modified version under this or any other name;
+  - use the Software, or any part of it, for any commercial purpose.
+
+The source code that produces this Software is maintained in a separate, private repository
+and is not made available by virtue of this repository's public visibility.
+
+Unauthorized copying, redistribution, or derivative use of this Software, via any medium, is
+strictly prohibited.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
